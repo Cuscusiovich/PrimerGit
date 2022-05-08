@@ -25,5 +25,9 @@ $banana->set_name('Banana');
 
 echo $apple->get_name();
 echo "\n";
+echo $apple->get_color();
+echo "\n";
 echo $banana->get_name();
+echo "\n";
+echo $banana->get_color();
 ?>
